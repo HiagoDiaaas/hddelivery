@@ -1,6 +1,3 @@
-import './styles.css';
-
-
 const StepsHeader = () => {
     return (
         <header className='orders-steps-container'>
